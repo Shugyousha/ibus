@@ -32,6 +32,8 @@ protocol_sources = \
     input-method-unstable-v1-client-protocol.h \
     input-method-unstable-v1-protocol.c \
     text-input-unstable-v1-client-protocol.h \
+    input-method-unstable-v2-client-protocol.h \
+    input-method-unstable-v2-protocol.c \
     $(NULL)
 
 ibus_wayland_SOURCES = \
